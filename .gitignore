@@ -1,0 +1,10 @@
+
+# folders
+.vscode
+.ipynb_checkpoints
+__pycache__
+
+# files
+test.py
+*.db*
+
